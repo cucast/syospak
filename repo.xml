@@ -1,8 +1,10 @@
+cat > /home/sysprep/syos_extract/etc/sypm/repo.xml << 'EOF'
 <repository>
-    <name></name>
-    <description></description>
-    <maintainer></maintainer>
-    <updated></updated>
+    <name>SYOS Official Repository</name>
+    <description>SYOS Official Package Repository</description>
+    <maintainer>SYSPREP</maintainer>
+    <updated>2026-06-26T12:00:00Z</updated>
     <packages>
     </packages>
 </repository>
+EOF
