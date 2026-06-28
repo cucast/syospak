@@ -1,4 +1,3 @@
-cat > /home/sysprep/syos_extract/etc/sypm/repo.xml << 'EOF'
 <repository>
     <name>SYOS Official Repository</name>
     <description>SYOS Official Package Repository</description>
@@ -7,4 +6,3 @@ cat > /home/sysprep/syos_extract/etc/sypm/repo.xml << 'EOF'
     <packages>
     </packages>
 </repository>
-EOF
