@@ -1,6 +1,6 @@
 <repository>
     <name>SYOS Official Repository</name>
-    <description>SYOS Official Package Repository</description>
+    <description>SYOS SYSTEM Package Repository</description>
     <maintainer>SYSPREP</maintainer>
     <updated>2026-06-26T12:00:00Z</updated>
     <packages>
